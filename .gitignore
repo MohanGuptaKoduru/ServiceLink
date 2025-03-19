@@ -1,0 +1,69 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node modules
+node_modules/
+
+# Build directories
+build/
+dist/
+.parcel-cache/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.development
+key.json
+vite-env.d.ts
+
+# Lock files
+bun.lockb
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.eslintcache
+
+# Git & log files
+npm-debug.log*
+yarn-error.log*
+*.log
+
+# Google Cloud & Firebase
+.gcloudignore
+.firebaserc
+.firebase/
+
+# Compiled & Temporary files
+*.cache
+*.tmp
+*.swp
+coverage/
