@@ -33,6 +33,7 @@ This repository contains the source code for our ServiceLink platform, including
 
 ## Deployment
 The platform is hosted on Azure . We have optimized our cloud infrastructure using Azure Cloud for scalability and performance.
+The Ip address of the website is http://4.188.106.30/ you can see our website
 
 ## Contribution
 We welcome contributions! Please follow our contribution guidelines and submit pull requests.
