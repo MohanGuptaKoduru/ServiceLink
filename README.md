@@ -5,7 +5,7 @@
 ServiceLink is a cutting-edge platform that connects customers with trusted professionals for a variety of home services, including plumbing, electrical work, carpentry, painting, and more. Our mission is to simplify the process of finding skilled service providers by offering a transparent, reliable, and efficient digital platform. 
 
 ### **Why Choose ServiceLink?**
-- **Trusted Professionals:** Every technician on our platform is verified, ensuring quality and reliability.
+- **Trusted Professionals:** Every technician on our platform is verified, ensuring the quality and reliability.
 - **Seamless Booking:** Customers can easily book services through our intuitive app.
 - **Real-Time Tracking:** Stay updated with the exact location and arrival time of your service provider.
 - **Secure Payments:** Multiple payment options for a safe and convenient transaction.
